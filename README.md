@@ -30,7 +30,7 @@ Cette activité est basée sur le principe de la **compartimentation** de ses ac
 
 #### Pourquoi ?
 - **Désencombrer vos courriels personnels et institutionnels**. Ne noyez pas une invitation à aller boire une bière ou une réponse à une demande de bourse.
-- **Économiser vos facultés d'attention et d'évaluation**. Ne vous posez pas la question « est-ce que cette information est importante? » à l'ouverture de chaque nouveau courriel de votre boîte de réception.
+- **Économiser vos facultés d'attention et d'évaluation**. Ne vous posez pas la question « Est-ce que cette information est importante? » à l'ouverture de chaque nouveau courriel de votre boîte de réception.
 
 #### Comment ?
 - Collecter les alertes de vos sujets de recherche (voir atelier Alertes)
@@ -52,7 +52,7 @@ Cette activité est basée sur le principe de la **compartimentation** de ses ac
 - **Extensions**
   - ePubReader [FF](https://addons.mozilla.org/en-US/firefox/addon/epubreader/)/[Ch](https://chrome.google.com/webstore/detail/epubreader/) (pour lire les ebooks depuis votre navigateur)
   - [Evernote Webclipper](https://evernote.com/intl/fr/features/webclipper) (+[Evernote](https://evernote.com), un service semi-payant pour verser en vrac des pages web et des documents)
-  -[uBlock](https://github.com/gorhill/uBlock) (pour bloquer les publicités)
+  - [uBlock](https://github.com/gorhill/uBlock) (pour bloquer les publicités)
 - **Favoris** :
   - Vers tous vos services web (courriels, réseaux sociaux, aggrégateurs rss, votre blogue de recherche,...)
   - [Altmetric it!](https://www.altmetric.com/products/free-tools/bookmarklet/) (pour connaître le score médiatique d'une publication scientifique)
