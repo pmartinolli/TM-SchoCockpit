@@ -3,13 +3,13 @@ TM-SchoCockpit
 ## eCockpit bureautique du chercheur
 ## Scholarly eCockpit 
 
-[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoCockpit/blob/master/files/TM-SchoCockpit-1.0.fr.pdf)
+[Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoCockpit/blob/master/files/TM-SchoCockpit-1.1.fr.pdf)
 
 * Author / Auteur : Pascal Martinolli
 
 * Created / Créé le : 2018-12-18
 
-* Most recent version / Dernière version : 1.0
+* Most recent version / Dernière version : 1.1
 
 * Original format / format de fichier : MS Publisher 2016 (Proprietary/Propriétaire)
 
