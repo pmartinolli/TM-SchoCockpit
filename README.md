@@ -15,7 +15,7 @@ TM-SchoCockpit
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : [Séminaire PLU6058](http://guides.bib.umontreal.ca/cours/1-PLU6058)
+* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](http://guides.bib.umontreal.ca/cours/1-PLU6058)
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
@@ -38,7 +38,7 @@ Cette activité est basée sur le principe de la **compartimentation** de ses ac
 
 #### Suggestion : un compte [Gmail](https://mail.google.com)
 - Avantages : gratuit, simple, grande capacité, stable
-- Limites : pas de confidentialité sûre, bulle de filtrage, corporation dominante
+- Limites : pas de confidentialité garantie, bulle de filtrage, corporation dominante
 
 
 ### Installer toutes les applications liées à votre recherche dans un navigateur distinct
@@ -54,7 +54,7 @@ Cette activité est basée sur le principe de la **compartimentation** de ses ac
   - [Evernote Webclipper](https://evernote.com/intl/fr/features/webclipper) (+[Evernote](https://evernote.com), un service semi-payant pour verser en vrac des pages web et des documents)
   - [uBlock](https://github.com/gorhill/uBlock) (pour bloquer les publicités)
 - **Favoris** :
-  - Vers tous vos services web (courriels, réseaux sociaux, aggrégateurs rss, votre blogue de recherche,...)
+  - Vers tous vos services web (courriel, réseaux sociaux, aggrégateur rss, blogue de recherche,...)
   - [Altmetric it!](https://www.altmetric.com/products/free-tools/bookmarklet/) (pour connaître le score médiatique d'une publication scientifique)
   - [ZoteroBib](https://zbib.org/) (pour faire une bibliographie à la volée, sans passer par Zotero)
  
