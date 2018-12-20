@@ -1,6 +1,6 @@
 TM-SchoCockpit
 
-## eCokpit bureatique du chercheur
+## eCockpit bureautique du chercheur
 ## Scholarly eCockpit 
 
 [Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoCockpit/blob/master/files/TM-SchoCockpit-1.0.fr.pdf)
