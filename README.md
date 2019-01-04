@@ -1,5 +1,3 @@
-TM-SchoCockpit
-
 ## eCockpit bureautique du chercheur
 ## Scholarly eCockpit 
 
