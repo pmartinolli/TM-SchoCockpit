@@ -53,9 +53,10 @@ Cette activité est basée sur le principe de la **compartimentation** de ses ac
   - [Altmetric it!](https://www.altmetric.com/products/free-tools/bookmarklet/) (pour connaître le score médiatique d'une publication scientifique)
   - [ZoteroBib](https://zbib.org/) (pour faire une bibliographie à la volée, sans passer par Zotero)
  
- 
+
 ### Cette activité est en lien avec les activités de :
 - [Gestion d'identité et de profil en ligne](https://github.com/pmartinolli/TM-SchoProMa)
 - Gestion de ses bases de connaissances (à venir)
+- Bonnes pratiques de sauvegarde (à venir)
 - Tenir un journal de bord de sa recherche (à venir)
 
