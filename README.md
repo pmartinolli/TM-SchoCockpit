@@ -20,11 +20,11 @@ TM-SchoCockpit
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
 
-
-
-## Bonnes pratiques de paramétrage de son environnement bureautique pour ses activités de recherche
+## Bonnes pratiques de paramétrage et de compartimentation de son environnement bureautique pour ses activités de recherche
+/ Compartmentalizing email and navigator dedicated to your research
 
 Cette activité est basée sur le principe de la **compartimentation** de ses activités de recherche, principalement par un courriel et un navigateur séparé.
+
 
 ### Créer un compte courriel distinct pour ses démarches de recherche
 
