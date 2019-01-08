@@ -56,7 +56,7 @@ Cette activité est basée sur le principe de la **compartimentation** de ses ac
 
 ### Cette activité est en lien avec les activités de :
 - [Gestion d'identité et de profil en ligne](https://github.com/pmartinolli/TM-SchoProMa)
+- [Bonnes pratiques de sauvegarde](https://github.com/pmartinolli/TM-Saveorcry)
 - Gestion de ses bases de connaissances (à venir)
-- Bonnes pratiques de sauvegarde (à venir)
 - Tenir un journal de bord de sa recherche (à venir)
 
