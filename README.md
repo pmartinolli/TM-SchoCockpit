@@ -50,6 +50,7 @@ Cette activité est basée sur le principe de la **compartimentation** de ses ac
   - [uBlock](https://github.com/gorhill/uBlock) (pour bloquer les publicités)
 - **Favoris** :
   - Vers tous vos services web (courriel, réseaux sociaux, aggrégateur rss, blogue de recherche,...)
+  - Reconnaissance de texte en 5 clics : faire une capture d'écran du texte, enregistrer l'image, la soumettre à ce [service web](https://www.onlineocr.net/), générer un fichier texte, copier-coller.
   - [Altmetric it!](https://www.altmetric.com/products/free-tools/bookmarklet/) (pour connaître le score médiatique d'une publication scientifique)
   - [ZoteroBib](https://zbib.org/) (pour faire une bibliographie à la volée, sans passer par Zotero)
  
