@@ -1,21 +1,8 @@
-## eCockpit bureautique du chercheur
-## Scholarly eCockpit 
+# eCockpit bureautique du chercheur
+Scholarly eCockpit 
 
 [Affiche en français, PDF](https://github.com/pmartinolli/TM-SchoCockpit/blob/master/files/TM-SchoCockpit-1.2.fr.pdf)
 
-* Author / Auteur : Pascal Martinolli
-
-* Created / Créé le : 2018-12-18
-
-* Most recent version / Dernière version : 1.2
-
-* Original format / format de fichier : MS Publisher 2016 (Proprietary/propriétaire), LibreOffice Draw 5 (Open/ouvert)
-
-* License / Licence : CC-BY
-
-* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](http://guides.bib.umontreal.ca/cours/1-PLU6058)
-
-* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
 
 ## Bonnes pratiques de paramétrage et de compartimentation de son environnement bureautique pour ses activités de recherche
@@ -61,3 +48,23 @@ Cette activité est basée sur le principe de la **compartimentation** de ses ac
 - Gestion de ses bases de connaissances (à venir)
 - Tenir un journal de bord de sa recherche (à venir)
 
+
+## Métadonnées
+
+* Author / Auteur : Pascal Martinolli
+
+* Created / Créé le : 2018-12-18
+
+* Most recent version / Dernière version : 1.2
+
+* Original format / format de fichier : MS Publisher 2016 (Proprietary/propriétaire), LibreOffice Draw 5 (Open/ouvert)
+
+* License / Licence : CC-BY
+
+* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](http://guides.bib.umontreal.ca/cours/1-PLU6058)
+
+* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
+
+\
+\
+https://github.com/pmartinolli/TM-SchoCockpit
